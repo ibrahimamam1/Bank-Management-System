@@ -9,11 +9,8 @@ Customers
     Account Types: Customers can have different types of accounts, including savings, current, and foreign accounts.
     Transactions: Perform actions such as deposit, withdrawal, transfer, and checking balances.
     Transaction History: Access and review transaction history.
-    Bill Payments: Pay bills conveniently through the system.
     Loan Applications: Apply for loans within the system.
-    Account Management: Update account information, change passwords, and activate/deactivate cards.
-    Exchange Rates: View real-time exchange rates.
-    Online Payments: Transfer money to online payment platforms.
+    Account Management: Check Balance , Update account information, change passwords, and activate/deactivate cards.
 
 Employee
 
@@ -26,11 +23,7 @@ Employee
 Manager
 
     Comprehensive Information: Access both customer and employee information.
-    Account Management: Delete customer accounts when necessary.
+    Account Management: Freeze customer accounts when necessary.
     Financial Overview: View the bank's total summary.
     Loan Approval: Approve large loan applications.
     Transaction Reports: Access reported transactions for analysis.
-
-Customer Support
-
-    Real-time Support: Customers can chat with employees or a chatbot for assistance.
