@@ -1,0 +1,3 @@
+1 chala 1 dd yy  mmmm 1234567 49900 0 0 yolo
+2 dio 2 dd mm  yyyy 123456 15000 0 0 itsmedio
+1 jojo 3 dd mm  yyyy 1234567 15000 0 0 mejojo
